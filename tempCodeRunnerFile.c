@@ -1,1 +1,1 @@
-    printf("%d\n", ptr);
+10
